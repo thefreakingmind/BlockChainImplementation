@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c2e26a2f-089a-466a-87ba-128c86c41cc2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Miner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Miner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -70,25 +76,33 @@
       <screen x="0" y="23" width="1792" height="1047" />
     </state>
     <state x="709" y="269" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1047@0.23.1792.1047" timestamp="1602908855663" />
-    <state width="1750" height="303" key="GridCell.Tab.0.bottom" timestamp="1602912184463">
+    <state width="1750" height="303" key="GridCell.Tab.0.bottom" timestamp="1602912754241">
       <screen x="0" y="23" width="1792" height="1047" />
     </state>
-    <state width="1750" height="303" key="GridCell.Tab.0.bottom/0.23.1792.1047@0.23.1792.1047" timestamp="1602912184463" />
-    <state width="1750" height="303" key="GridCell.Tab.0.center" timestamp="1602912184462">
+    <state width="1750" height="303" key="GridCell.Tab.0.bottom/0.23.1792.1047@0.23.1792.1047" timestamp="1602912754241" />
+    <state width="1750" height="303" key="GridCell.Tab.0.center" timestamp="1602912754240">
       <screen x="0" y="23" width="1792" height="1047" />
     </state>
-    <state width="1750" height="303" key="GridCell.Tab.0.center/0.23.1792.1047@0.23.1792.1047" timestamp="1602912184462" />
-    <state width="1750" height="303" key="GridCell.Tab.0.left" timestamp="1602912184462">
+    <state width="1750" height="303" key="GridCell.Tab.0.center/0.23.1792.1047@0.23.1792.1047" timestamp="1602912754240" />
+    <state width="1750" height="303" key="GridCell.Tab.0.left" timestamp="1602912754240">
       <screen x="0" y="23" width="1792" height="1047" />
     </state>
-    <state width="1750" height="303" key="GridCell.Tab.0.left/0.23.1792.1047@0.23.1792.1047" timestamp="1602912184462" />
-    <state width="1750" height="303" key="GridCell.Tab.0.right" timestamp="1602912184463">
+    <state width="1750" height="303" key="GridCell.Tab.0.left/0.23.1792.1047@0.23.1792.1047" timestamp="1602912754240" />
+    <state width="1750" height="303" key="GridCell.Tab.0.right" timestamp="1602912754241">
       <screen x="0" y="23" width="1792" height="1047" />
     </state>
-    <state width="1750" height="303" key="GridCell.Tab.0.right/0.23.1792.1047@0.23.1792.1047" timestamp="1602912184463" />
+    <state width="1750" height="303" key="GridCell.Tab.0.right/0.23.1792.1047@0.23.1792.1047" timestamp="1602912754241" />
     <state x="397" y="185" key="SettingsEditor" timestamp="1602908779006">
       <screen x="0" y="23" width="1792" height="1047" />
     </state>
     <state x="397" y="185" key="SettingsEditor/0.23.1792.1047@0.23.1792.1047" timestamp="1602908779006" />
+    <state x="642" y="184" key="git4idea.branch.GitSmartOperationDialog" timestamp="1602912533519">
+      <screen x="0" y="23" width="1792" height="1047" />
+    </state>
+    <state x="642" y="184" key="git4idea.branch.GitSmartOperationDialog/0.23.1792.1047@0.23.1792.1047" timestamp="1602912533519" />
+    <state x="561" y="255" width="670" height="676" key="search.everywhere.popup" timestamp="1602922399998">
+      <screen x="0" y="23" width="1792" height="1047" />
+    </state>
+    <state x="561" y="255" width="670" height="676" key="search.everywhere.popup/0.23.1792.1047@0.23.1792.1047" timestamp="1602922399998" />
   </component>
 </project>

@@ -1,13 +1,15 @@
 import com.google.gson.GsonBuilder;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class Miner {
 
 
     public static final int handler = 1;
+
     public static List<Block> blockchain = new ArrayList<Block>();
+    private Map<String, String> map = new HashMap<String, String>();
+
 
     public static void main(String[] args) {
         blockchain.add(new Block("First Block", "0"));
@@ -30,6 +32,7 @@ public class Miner {
 
 
         String blockJson = new GsonBuilder().setPrettyPrinting().create().toJson(blockchain);
+
 
         System.out.println(blockJson);
 
